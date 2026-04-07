@@ -66,6 +66,6 @@ Technology Stack:
   <img src="image/instagram.svg" alt="instagram" width="40" height="40"/>
 </a>
 <a href="https://orcid.org/0009-0004-5940-6811" target="_blank">
-  <img src="image/orcid.svg" alt="ORCID" width="40" height="40"/>
+  <img src="image/ORCID_iD.svg" alt="ORCID" width="40" height="40"/>
 </a>
 </p>
